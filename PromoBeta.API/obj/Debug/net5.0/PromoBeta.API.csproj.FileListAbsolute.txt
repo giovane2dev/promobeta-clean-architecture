@@ -1,0 +1,133 @@
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/appsettings.Development.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/appsettings.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.runtimeconfig.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.runtimeconfig.dev.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/ref/PromoBeta.API.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/AutoMapper.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Application.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Infra.Data.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Infra.IoC.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Application.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Infra.Data.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/scopedcss/bundle/PromoBeta.API.styles.css
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/staticwebassets/PromoBeta.API.StaticWebAssets.Manifest.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.RazorTargetAssemblyInfo.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.csproj.CopyComplete
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/ref/PromoBeta.API.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.genruntimeconfig.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.API/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/appsettings.Development.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/appsettings.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.runtimeconfig.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.runtimeconfig.dev.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/ref/PromoBeta.API.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.API.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/AutoMapper.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Application.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Infra.Data.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Infra.IoC.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Application.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/bin/Debug/net5.0/PromoBeta.Infra.Data.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/staticwebassets/PromoBeta.API.StaticWebAssets.Manifest.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/staticwebassets/PromoBeta.API.StaticWebAssets.xml
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/scopedcss/bundle/PromoBeta.API.styles.css
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.RazorTargetAssemblyInfo.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.csproj.CopyComplete
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/ref/PromoBeta.API.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.API/obj/Debug/net5.0/PromoBeta.API.genruntimeconfig.cache

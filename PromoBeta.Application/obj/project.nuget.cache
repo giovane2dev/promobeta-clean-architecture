@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HSV92aFSmRDDy0SV6al6Qxwk3F7td/vYGbiXR1nyrdhCFEKqZKmpq9NoKEcCk2AEYA+OU6gk9EhruvufNbv3Ew==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\learning\\promobeta-clean-architecture\\PromoBeta.Application\\PromoBeta.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2dev\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\2dev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

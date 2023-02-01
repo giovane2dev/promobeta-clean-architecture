@@ -1,0 +1,318 @@
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.runtimeconfig.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.runtimeconfig.dev.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ref/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/FluentAssertions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/testhost.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.abstractions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.assert.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.core.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.CopyComplete
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/ref/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.genruntimeconfig.cache
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.deps.json
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.runtimeconfig.json
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.runtimeconfig.dev.json
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ref/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.pdb
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/FluentAssertions.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/testhost.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.abstractions.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.assert.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.core.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.AssemblyInfo.cs
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.CopyComplete
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/ref/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.pdb
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.genruntimeconfig.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.runtimeconfig.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.runtimeconfig.dev.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ref/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.Tests.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/FluentAssertions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/testhost.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.abstractions.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.assert.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.core.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.csproj.CopyComplete
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/ref/PromoBeta.Domain.Tests.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain.Tests/obj/Debug/net5.0/PromoBeta.Domain.Tests.genruntimeconfig.cache

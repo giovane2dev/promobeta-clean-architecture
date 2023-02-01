@@ -1,0 +1,36 @@
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/bin/Debug/net5.0/ref/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/ref/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.deps.json
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/bin/Debug/net5.0/ref/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.AssemblyInfo.cs
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/ref/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo 1/Development/web/applications/promobeta/PromoBeta/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/bin/Debug/net5.0/ref/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/obj/Debug/net5.0/ref/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Domain/obj/Debug/net5.0/PromoBeta.Domain.pdb

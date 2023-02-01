@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "foec+VuC0hLwsNykJlpsnDfFDwq4hUyLZwUAI9+Lu5vvQVavWG4T3ujlqnWFc0So+R59zWtsscLVjTeWDUxGRA==",
+  "success": true,
+  "projectFilePath": "/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/PromoBeta.AppUI.csproj",
+  "expectedPackageFiles": [
+    "/Users/2dev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/2dev/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/2dev/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/2dev/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/2dev/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

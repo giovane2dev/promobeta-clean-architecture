@@ -1,0 +1,38 @@
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.IoC.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/ref/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.IoC.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Application.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.Data.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Application.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.Data.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.csproj.CopyComplete
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/ref/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/PromoBeta/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.IoC.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/ref/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.IoC.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Application.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Domain.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.Data.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Domain.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Application.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/bin/Debug/net5.0/PromoBeta.Infra.Data.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.csproj.CopyComplete
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/ref/PromoBeta.Infra.IoC.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.Infra.IoC/obj/Debug/net5.0/PromoBeta.Infra.IoC.pdb

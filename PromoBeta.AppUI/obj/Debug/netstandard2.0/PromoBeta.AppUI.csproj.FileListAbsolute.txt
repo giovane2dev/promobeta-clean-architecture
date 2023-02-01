@@ -1,0 +1,15 @@
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/bin/Debug/netstandard2.0/PromoBeta.AppUI.deps.json
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/bin/Debug/netstandard2.0/PromoBeta.AppUI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/bin/Debug/netstandard2.0/ref/PromoBeta.AppUI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/bin/Debug/netstandard2.0/PromoBeta.AppUI.pdb
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/PromoBeta.AppUI.csproj.AssemblyReference.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/PromoBeta.AppUI.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/PromoBeta.AppUI.AssemblyInfoInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/PromoBeta.AppUI.AssemblyInfo.cs
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/PromoBeta.AppUI.csproj.CoreCompileInputs.cache
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/PromoBeta.AppUI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/ref/PromoBeta.AppUI.dll
+/Volumes/TwoDev-Externo/Development/web/applications/promobeta/promobeta clean architecture/PromoBeta.AppUI/obj/Debug/netstandard2.0/PromoBeta.AppUI.pdb
